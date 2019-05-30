@@ -1,0 +1,23 @@
+{
+  "name": "saz2jmx",
+  "version": "1.0.0",
+  "description": "A utility to convert fiddler captures to jmeter script (.jmx files)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "saz",
+    "fiddler",
+    "jmeter",
+    "jmx"
+  ],
+  "author": "[dnafication@users.noreply.github.com]",
+  "license": "MIT",
+  "dependencies": {
+    "jsonpath": "1.0.1",
+    "lodash": "4.17.11",
+    "saz-parser": "0.0.8",
+    "xml-js": "1.6.11"
+  }
+}
