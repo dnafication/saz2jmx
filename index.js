@@ -2,7 +2,7 @@ const sazParser = require('saz-parser');
 const _ = require('lodash');
 const { JMX } = require('./jmx');
 
-const jmx = new JMX('template.jmx');
+const jmx = new JMX('./template.jmx');
 
 /**
  * saz2jmx
