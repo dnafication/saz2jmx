@@ -1,6 +1,6 @@
 {
   "name": "saz2jmx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to convert fiddler captures to jmeter script (.jmx files)",
   "main": "index.js",
   "scripts": {
