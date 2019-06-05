@@ -8,6 +8,8 @@ stats.json
 .DS_Store
 npm-debug.log
 .idea
-20190529_SP_ConnectORderFTTN_ACTIVE.saz
+sample.saz
 lib/template-rsvt.jmx
 test
+
+*.jmx
