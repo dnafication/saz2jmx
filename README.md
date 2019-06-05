@@ -8,6 +8,18 @@ A utility to convert fiddler capture (saz) to jmeter script (jmx). It exports th
 let saz2jmx = require('saz2jmx');
 saz2jmx('c:/path/to/imported.saz', 'exports/exported.jmx');
 ```
+3. or run it as a CLI
+```shell
+Usage: saz2jmx [options]
+
+example: saz2jmx -s source.saz -d destination.jmx
+
+Options:
+  -v, --version                    output the version number
+  -s, --source <source>            source .saz file
+  -d, --destination <destination>  destination .jmx file
+  -h, --help                       output usage information
+```
 That's it, really!
 
 ## TODO
