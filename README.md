@@ -9,6 +9,8 @@ As a Performance tester (or "http hacker") we play with tools like [Fiddler](htt
 
 ## Usage
 
+Prerequisite is to have Nodejs installed. [Latest LTS Version: 10.16.0 (includes npm 6.9.0)](https://nodejs.org/en/download/).
+
 ### as a library
 
 1. install the package `npm i saz2jmx`
