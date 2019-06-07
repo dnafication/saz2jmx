@@ -20,12 +20,15 @@ saz2jmx('c:/path/to/imported.saz', 'exports/exported.jmx');
 
 ### as an npm executable
 
-execute it directly
-`npx saz2jmx -s source.saz -d destination.jmx`
+execute it directly without installing the package
+
+```shell
+npx saz2jmx -s source.saz -d destination.jmx
+```
 
 ### as a global command
 
-install the package `npm i -g saz2jmx`
+install the package by running `npm i -g saz2jmx`. Then run the command as shown below.
 
 ```shell
 Usage: saz2jmx [options]
