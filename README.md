@@ -20,11 +20,12 @@ There are multiple options to use this library.
 ### as a library
 
 1. install the package `npm i saz2jmx`
-2. sample javascript
+2. sample javascript, say `script.js`
 ```javascript
 let saz2jmx = require('saz2jmx');
 saz2jmx('c:/path/to/imported.saz', 'exports/exported.jmx');
 ```
+3. Execute `node script.js`
 
 ### as an npm executable
 
