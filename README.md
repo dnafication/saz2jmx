@@ -52,6 +52,12 @@ Options:
 ```
 That's it, really!
 
+## Contributors welcome!
+Just send pull requests with feature/bug description. We can discuss about the approach through comments in [issues page](https://github.com/dnafication/saz2jmx/issues)
+
+## Features/Issues/Bugs?
+[Click here](https://github.com/dnafication/saz2jmx/issues/new) to create new issue.
+
 ## TODO
 - ability make samplers configurable (pass in a json maybe?)
 - ability add additional jmeter components
