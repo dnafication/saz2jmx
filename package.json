@@ -3,6 +3,10 @@
   "version": "1.1.2",
   "description": "A utility to convert fiddler captures to jmeter script (.jmx files)",
   "homepage": "https://github.com/dnafication/saz2jmx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnafication/saz2jmx"
+  },
   "main": "index.js",
   "bin": "bin/saz2jmx.js",
   "scripts": {
@@ -22,7 +26,7 @@
     "commander": "^2.20.0",
     "jsonpath": "1.0.1",
     "lodash": "4.17.13",
-    "saz2js": "0.0.2",
+    "saz2js": "1.0.1",
     "xml-js": "1.6.11"
   }
 }
