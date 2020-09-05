@@ -14,8 +14,9 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "index",
-      "program": "${workspaceFolder}\\index.js"
+      "name": "saz2jmx",
+      "program": "${workspaceFolder}/bin/saz2jmx.js",
+      "args": ["-s", "./test.saz", "-d", "./test.jmx"]
     }
   ]
 }
