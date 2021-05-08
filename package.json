@@ -25,7 +25,7 @@
   "dependencies": {
     "commander": "^2.20.0",
     "jsonpath": "1.0.1",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "saz2js": "1.0.1",
     "xml-js": "1.6.11"
   }
